@@ -1,2 +1,7 @@
-/branch.gitbook
-/branch.hexo
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
